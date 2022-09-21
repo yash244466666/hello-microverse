@@ -17,8 +17,9 @@ Microverse Day 2 Project
 
 👤 **Author 1**
 - Yash
-- GitHub: [@yash244466666]([https://github.com/yash244466666])
-- LinkedIn: [yash-solo]([ttps://www.linkedin.com/in/yash-solo])
+- GitHub: [Yash](https://github.com/yash244466666)
+- LinkedIn: [Yash Solo](https://www.linkedin.com/in/yash-solo)
+- Twitter: [Yash Solo](https://twitter.com/yash_solo000)
 
 ## 🤝 Contributing
 
